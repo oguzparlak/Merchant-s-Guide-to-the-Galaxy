@@ -3,16 +3,27 @@
   <component name="ChangeListManager">
     <list default="true" id="210ce0bc-14fa-4671-adbc-6f3f093ceafa" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/logic/letters/C.java" afterPath="$PROJECT_DIR$/src/logic/letters/C.java" />
-      <change beforePath="$PROJECT_DIR$/src/logic/letters/D.java" afterPath="$PROJECT_DIR$/src/logic/letters/D.java" />
-      <change beforePath="$PROJECT_DIR$/src/logic/letters/I.java" afterPath="$PROJECT_DIR$/src/logic/letters/I.java" />
-      <change beforePath="$PROJECT_DIR$/src/logic/letters/L.java" afterPath="$PROJECT_DIR$/src/logic/letters/L.java" />
-      <change beforePath="$PROJECT_DIR$/src/logic/letters/M.java" afterPath="$PROJECT_DIR$/src/logic/letters/M.java" />
-      <change beforePath="$PROJECT_DIR$/src/logic/letters/V.java" afterPath="$PROJECT_DIR$/src/logic/letters/V.java" />
-      <change beforePath="$PROJECT_DIR$/src/logic/letters/X.java" afterPath="$PROJECT_DIR$/src/logic/letters/X.java" />
-      <change beforePath="$PROJECT_DIR$/src/logic/numerals/IRomanNumeral.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/logic/numerals/RomanNumeral.java" afterPath="$PROJECT_DIR$/src/logic/numerals/RomanNumeral.java" />
-      <change beforePath="$PROJECT_DIR$/src/logic/numerals/RomanNumeralCombination.java" afterPath="$PROJECT_DIR$/src/logic/numerals/RomanNumeralCombination.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/exceptions/InvalidRomanNumeralException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/input.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/logic/letters/C.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/logic/letters/D.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/logic/letters/I.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/logic/letters/L.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/logic/letters/M.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/logic/letters/V.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/logic/letters/X.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/logic/numerals/RomanNumeral.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/logic/numerals/RomanNumeralCombination.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/logic/processors/AssignmentProcessor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/logic/processors/CreditProcessor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/logic/processors/Processor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/logic/processors/QuestionProcessor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/logic/processors/UnknownProcessor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/main/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/utils/InputReader.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/utils/ProcessorFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/utils/QuestionHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Merchant's Guide To Galaxy/utils/RomanNumeralUtils.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
