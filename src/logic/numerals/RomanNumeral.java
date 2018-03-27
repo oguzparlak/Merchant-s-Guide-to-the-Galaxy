@@ -1,14 +1,18 @@
 package logic.numerals;
 
-import java.util.List;
-
-public abstract class RomanNumeral implements IRomanNumeral<Character>, Comparable<RomanNumeral> {
+public abstract class RomanNumeral<T> implements Comparable<RomanNumeral> {
 
     /**
-     * Returns the list of RomanNumerals can be subtracted
-     * from this RomanNumeral
+     * Returns the value of RomanNumeral
+     * in base10 number system.
      */
-    public abstract List<RomanNumeral> canBeSubtractedFrom();
+    public abstract int getValue();
+
+    /**
+     * Defines the symbol of the RomanNumeral
+     * i.e 'X', 'I', 'V', 'VI'
+     */
+    public abstract T getSymbol();
 
     /**
      * If the values of two RomanNumerals are the same

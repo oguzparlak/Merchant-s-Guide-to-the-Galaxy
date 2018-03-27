@@ -7,11 +7,6 @@ import java.util.List;
 public class L extends RomanNumeral {
 
     @Override
-    public List<RomanNumeral> canBeSubtractedFrom() {
-        return null;
-    }
-
-    @Override
     public int getValue() {
         return 50;
     }

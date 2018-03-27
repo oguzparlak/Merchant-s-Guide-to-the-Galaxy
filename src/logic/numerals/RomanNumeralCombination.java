@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * Defines the combination of RomanNumerals
  */
-public class RomanNumeralCombination implements IRomanNumeral<String> {
+public class RomanNumeralCombination extends RomanNumeral<String> {
 
     private List<RomanNumeral> numerals;
 

@@ -8,12 +8,6 @@ import java.util.List;
 public class X extends RomanNumeral {
 
     @Override
-    public List<RomanNumeral> canBeSubtractedFrom() {
-        RomanNumeral[] arr = { new L(), new C() };
-        return Arrays.asList(arr);
-    }
-
-    @Override
     public int getValue() {
         return 10;
     }
